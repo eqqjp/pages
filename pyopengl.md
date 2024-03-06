@@ -270,14 +270,17 @@ if __name__ == '__main__':
 	gl_init()
 ```
 
-このプログラムは、新たにウィンドウを作成し、ティーポットを三次元表示します。
+このプログラムは、新たにウィンドウを作成し、ティーポットを三次元表示します。  
 ![teapot](img/pyopengl-teapot0.png)
 
-左ボタンのマウス操作により、回転させることができます。
-![teapot rotation](img/pyopengl-teapot1.png) ![teapot rotation](img/pyopengl-teapot2.png)
+左ボタンのマウス操作により、回転させることができます。  
+![teapot rotation](img/pyopengl-teapot1.png)
+![teapot rotation](img/pyopengl-teapot2.png)
 
-中央ボタンのマウス操作により、ズームさせることができます。
-![teapot zoom](img/pyopengl-teapot3.png) ![teapot zoom](img/pyopengl-teapot4.png)
+中央ボタンのマウス操作により、ズームさせることができます。  
+![teapot zoom](img/pyopengl-teapot3.png)
+![teapot zoom](img/pyopengl-teapot4.png)
 
-右ボタンのマウス操作により、移動させることができます。
-![teapot move](img/pyopengl-teapot5.png) ![teapot move](img/pyopengl-teapot6.png)
+右ボタンのマウス操作により、移動させることができます。  
+![teapot move](img/pyopengl-teapot5.png)
+![teapot move](img/pyopengl-teapot6.png)
